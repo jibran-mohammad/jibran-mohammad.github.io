@@ -5,66 +5,24 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "Become a Front End Developer",
+    cardImage: "assets/images/education-page/educativecertificate.png",
+    moocLink: "https://www.educative.io/verify-certificate/DR5gxyCM53DZlzD41hnYXkGPonO9hG",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "Learning Python",
+    cardImage: "assets/images/education-page/learning-python-original.webp",
+    moocLink: "https://www.amazon.in/Learning-Python-5ed-Mark-Lutz/dp/1449355730/?_encoding=UTF8&pd_rd_w=r3WGQ&content-id=amzn1.sym.1f592895-6b7a-4b03-9d72-1a40ea8fbeca&pf_rd_p=1f592895-6b7a-4b03-9d72-1a40ea8fbeca&pf_rd_r=ZR24BVN0VK2R48V3PXZ3&pd_rd_wg=llluy&pd_rd_r=deccea23-ea4c-4870-bf02-7c77803801a8&ref_=pd_gw_ci_mcx_mr_hp_atf_m/",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "Learning Web Design",
+    cardImage: "assets/images/education-page/learning-web-design-2.jpg",
+    moocLink: "https://www.amazon.in/Learning-Web-Design-Beginners-JavaScript/dp/9352137388/ref=sr_1_1?crid=3LQHOLK8WJJ1O&keywords=learning+web+design+by+jennifer+robbins&qid=1661664885&s=books&sprefix=learning+web+design+by+jennifer+robin%2Cstripbooks%2C288&sr=1-1",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-  },
-  {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
-  },
-  {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
-  },
-  {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
-  },
-  {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  },
-  {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    title: "Introduction to Algorithms",
+    cardImage: "assets/images/education-page/cormen.jpg",
+    moocLink: "https://www.amazon.in/Introduction-Algorithms-3Ed-International-Press/dp/0262533057/ref=sr_1_3?crid=1EWENBA5PQSUD&keywords=introduction+to+algorithms+by+cormen&qid=1661664940&s=books&sprefix=introduction+to+algorithms+by+cormen%2Cstripbooks%2C336&sr=1-3",
   },
 ];
 
